@@ -1,0 +1,13 @@
+{
+  "name": "Yaldy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luka3737 <80931117+Luka3737@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "tsc -p tsconfig.json && node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
